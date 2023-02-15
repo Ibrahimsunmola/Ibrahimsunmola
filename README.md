@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-  - [Vulnerability Management using Nessus Essentials]([https://github.com/Ibrahimsunmola/LABURL](https://github.com/Ibrahimsunmola/Vulnerability-management-using-Nessus-Essentials)
+  - [Vulnerability Management using Nessus Essentials](https://github.com/Ibrahimsunmola/Vulnerability-management-using-Nessus-Essentials)
 
 <h2>📑 Certifications </h2> 
 
