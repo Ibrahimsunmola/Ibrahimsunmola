@@ -7,4 +7,5 @@
 <h2>📑 Certifications </h2> 
 
   - [Comptia Security+](https://www.credly.com/badges/5b1abdff-cc4b-42bd-bdbd-e2b1db8e3d5a/public_url)
+  - [cybersecurity engineering virtual internship program](https://ibb.co/3rX2kq6)
 
